@@ -109,7 +109,7 @@ proxy-groups:
 
   - name: 哔哩哔哩
     type: select
-    proxies: [直连]
+    proxies: [直连,港澳]
 
   - name: 巴哈姆特
     type: select
