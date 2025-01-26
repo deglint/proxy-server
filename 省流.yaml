@@ -201,6 +201,7 @@ rules:
   - RULE-SET,twitter_domain,Twitter
   - DOMAIN,look.bigmelook.com,Emby
   - DOMAIN,looking.bigmelook.com,Emby
+  - DOMAIN,emby.cn2gias.uk,Emby
   - RULE-SET,youtube_domain,YouTube
   - RULE-SET,google_domain,Google
   - RULE-SET,telegram_domain,Telegram
